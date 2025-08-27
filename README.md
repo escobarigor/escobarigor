@@ -1,16 +1,12 @@
-## Hi there 👋
+# Olá, eu sou o Igor Borba Escobar 👋  
+...ou como alguns me chamam, **Escobooom**  
 
-<!--
-**escobarigor/escobarigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Programador com experiência em tecnologia desde **2012**  
+- 🤖 Entusiasta e usuário ativo de **inteligência artificial**  
+- 🎮 Experiência em **desenvolvimento e gestão de servidores de jogos** (Minecraft desde 2012)  
+- 🌐 Fundador e gestor do servidor **Rede Insanos** (2024)  
+- 🛏️ Atuação no setor de varejo, trabalhando em uma **loja de colchões** desde 2021  
+- 📂 Portfólio e projetos disponíveis aqui: [Meu GitHub](https://github.com/escobarigor)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+✨ Sempre buscando aprender e aplicar novas tecnologias, unindo criatividade, inovação e gestão de projetos.
